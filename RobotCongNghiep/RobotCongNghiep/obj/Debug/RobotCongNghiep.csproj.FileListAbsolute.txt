@@ -1,0 +1,14 @@
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\bin\Debug\RobotCongNghiep.exe.config
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\bin\Debug\RobotCongNghiep.exe
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\bin\Debug\RobotCongNghiep.pdb
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.csproj.AssemblyReference.cache
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.csproj.SuggestedBindingRedirects.cache
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.Form1.resources
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.Properties.Resources.resources
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.csproj.GenerateResource.cache
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.csproj.CoreCompileInputs.cache
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.exe
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.pdb
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\bin\Debug\EasyModbus.dll
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\bin\Debug\EasyModbus.xml
+G:\DATA  Y4\C Sharp\RobotCongNghiep\RobotCongNghiep\obj\Debug\RobotCongNghiep.csproj.CopyComplete
